@@ -1,5 +1,6 @@
 ## Nix and Fix: Targeting 1000× Compression of 3D Gaussian Splatting with Diffusion Models
 [![arXiv](https://img.shields.io/badge/arXiv-2602.04549-b31b1b.svg)](https://arxiv.org/abs/2602.04549)
+[![mediaTUM](https://img.shields.io/badge/mediaTUM-checkpoints-blue)](https://mediatum.ub.tum.de/1855852)
 
 Cem Eteke, Enzo Tartaglione
 
