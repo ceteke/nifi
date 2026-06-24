@@ -43,7 +43,7 @@ options:
                         Model dtype.
 ```
 
-This script requires the base `stable-diffusion-3-medium` model path (default `checkpoints/stable-diffusion-3`) and our method's weights (default `3dgs-compression-restore.ckpt`). Furthermore, we provide default text embeddings under `example/default_embeddings.npz`. Please refer to `embedding.py` for further details.  
+This script requires the base `stable-diffusion-3-medium` model path (default `checkpoints/stable-diffusion-3`) and our method's weights (default `3dgs-sd3-restorer-t=199.ckpt`). Furthermore, we provide default text embeddings under `example/default_embeddings.npz`. Please refer to `embedding.py` for further details.  
 
 After placing the Stable Diffusion 3 folder and the model checkpoint please run
 
