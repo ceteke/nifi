@@ -6,7 +6,7 @@ Cem Eteke, Enzo Tartaglione
 
 Accepted at 2026 IEEE International Conference on Image Processing (ICIP)
 
---
+---
 
 ### Overview
 ![Overview](assets/overview.jpg)
