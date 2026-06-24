@@ -60,7 +60,7 @@ In our work we performed this restoration on renderings of HAC++. The example in
 
 ### Training
 
-We used extended the codebase of RAVE to extremely prune 3DGS models trained on DL3DV dataset to create the extreme-low-rate 3DGS artifact restoration dataset. RAVE and DL3DV are linked below. We will share the artifact simulation and training code soon.
+We extended the codebase of RAVE to extremely prune 3DGS models trained on DL3DV dataset to create the extreme-low-rate 3DGS artifact restoration dataset. RAVE and DL3DV are linked below. We will share the artifact simulation and training code soon.
 
 ### Results
 
@@ -81,13 +81,13 @@ The 3DGS extensions are under Gaussian-Splatting License, while the shared pretr
 
 ### Cite
 
-If you use our work please cite:
+If you use our work, please cite:
 
 ```
 @article{eteke2026nix,
   title={Nix and Fix: Targeting 1000x Compression of 3D Gaussian Splatting with Diffusion Models},
   author={Eteke, Cem and Tartaglione, Enzo},
-  journal={arXiv preprint arXiv:2602.04549},
+  journal={2026 IEEE International Conference on Image Processing (ICIP)},
   year={2026}
 }
 ```
