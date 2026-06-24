@@ -8,7 +8,7 @@ from restorer import SD3Restoration
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--base_model', type=str, default='checkpoints/stable-diffusion-3', help='Path to Stable Diffusion 3.')
-parser.add_argument('--ckpt', type=str, default='checkpoints/3dgs-compression-restore.ckpt', help='Path to restoration adapter weights.')
+parser.add_argument('--ckpt', type=str, default='checkpoints/3dgs-sd3-restorer-t=199.ckpt', help='Path to restoration adapter weights.')
 parser.add_argument('--lq', type=str, required=True, help='Low-quality image path')
 parser.add_argument('--out', type=str, required=True, help='Output')
 parser.add_argument('--device', type=str, default='cuda:0', help='Device')
